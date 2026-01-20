@@ -28,7 +28,7 @@ const TaxiDispatchSystem = () => {
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
       <div className="bg-gradient-to-r from-green-600 to-yellow-500 text-white p-6 shadow-lg">
-        <h1 className="text-3xl font-bold mb-2">🚐 Uganda Taxi Dispatch System</h1>
+        <h1 className="text-3xl font-bold mb-2">🚐 Taxi Dispatch System</h1>
         <p className="text-white/90">Complete Technical Documentation & Design</p>
       </div>
 
