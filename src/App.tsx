@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Bus, Users, Map, Smartphone, Database, Cloud, Bell, ChevronRight, CheckCircle, Server, Wifi } from 'lucide-react';
 
-const UgandaTaxiDispatchSystem = () => {
+const TaxiDispatchSystem = () => {
   const [activeTab, setActiveTab] = useState('architecture');
   const [selectedSeat, setSelectedSeat] = useState<number | null>(null);
 
@@ -1364,4 +1364,4 @@ const UgandaTaxiDispatchSystem = () => {
   );
 };
 
-export default UgandaTaxiDispatchSystem;
+export default TaxiDispatchSystem;
