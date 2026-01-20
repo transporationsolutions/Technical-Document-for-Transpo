@@ -1,4 +1,4 @@
-# Uganda Taxi Dispatch System - Technical Documentation
+# Taxi Dispatch System - Technical Documentation
 
 Complete technical documentation and design for a comprehensive taxi dispatch system in Uganda.
 
