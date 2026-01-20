@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Bus, Users, Map, Smartphone, Database, Cloud, CreditCard, Bell, ChevronRight, Circle, CheckCircle, Server, Wifi, Navigation } from 'lucide-react';
+import { useState } from 'react';
+import { Bus, Users, Map, Smartphone, Database, Cloud, Bell, ChevronRight, CheckCircle, Server, Wifi } from 'lucide-react';
 
 const UgandaTaxiDispatchSystem = () => {
   const [activeTab, setActiveTab] = useState('architecture');
